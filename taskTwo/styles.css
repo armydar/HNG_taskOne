@@ -1,0 +1,67 @@
+header {
+  display: flex;
+  background: #253446;
+  justify-content: space-between;
+  color: #fff;
+}
+
+img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  margin: 17px;
+}
+
+.address {
+  color: #dd464b;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+.container {
+  display: flex;
+  margin: 10px 0;
+}
+
+aside {
+  width: 20%;
+  background: #253446;
+  color: #fff;
+}
+aside h4 {
+  color: #dd464b;
+  padding-left: 12px;
+}
+
+article {
+  padding: 0 45px;
+  width: 50%;
+}
+
+article h4 {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+article h5 {
+  font-size: 14px;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+
+h6 {
+  margin: 0 30px;
+}
+
+h2 {
+  margin-left: 30px;
+}
+
+#contact {
+  padding: 15px;
+  background: #dd464b;
+  color: white;
+  margin: 20px 32px;
+}
