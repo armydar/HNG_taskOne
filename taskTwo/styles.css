@@ -58,3 +58,10 @@ h6 {
 h2 {
   margin-left: 30px;
 }
+
+#contact {
+  padding: 15px;
+  background: #dd464b;
+  color: white;
+  margin: 20px 32px;
+}
